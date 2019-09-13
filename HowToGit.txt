@@ -1,4 +1,4 @@
-1.) Es wurde ein GitHub Konto erstellt
+﻿1.) Es wurde ein GitHub Konto erstellt
 	GitHub ist eine FileShare-Service 
 	Nutzername: Where2Watch
 	Pw: htlmoedling2019
@@ -6,3 +6,5 @@
 2.) Es wurde ein Repository mit dem Namen W2W erstellt.
 	Ein Repository entspricht ein Ordner indem die Dateien
 	für das Projekt abgelegt werden kann.
+
+3.) Test
