@@ -4,4 +4,4 @@
 4.) TortoiseGit runterladen
 5.) Git runterladen
 6.) GitBash im Ordner öffnen und den Command: git clone https://github.com/Where2Watch/W2W.git eingeben.
-7.) Test machen
+7.) Test machen und dabei nicht vergessen den Develop Branch zu wählen.
