@@ -7,6 +7,5 @@
 	Ein Repository entspricht ein Ordner indem die Dateien
 	für das Projekt abgelegt werden kann.
 
-3.) Neues Kommentar
+3.) Neuer Kommentar
 
-4.) Neuer Kommentar*
